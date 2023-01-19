@@ -1,0 +1,3 @@
+﻿using ChristmasStringLights;
+
+PiscaPisca.Run();

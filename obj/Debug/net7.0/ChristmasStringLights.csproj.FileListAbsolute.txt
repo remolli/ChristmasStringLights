@@ -1,0 +1,15 @@
+C:\Users\Win10\Desktop\estudando\C#\ChristmasStringLights\bin\Debug\net7.0\ChristmasStringLights.exe
+C:\Users\Win10\Desktop\estudando\C#\ChristmasStringLights\bin\Debug\net7.0\ChristmasStringLights.deps.json
+C:\Users\Win10\Desktop\estudando\C#\ChristmasStringLights\bin\Debug\net7.0\ChristmasStringLights.runtimeconfig.json
+C:\Users\Win10\Desktop\estudando\C#\ChristmasStringLights\bin\Debug\net7.0\ChristmasStringLights.dll
+C:\Users\Win10\Desktop\estudando\C#\ChristmasStringLights\bin\Debug\net7.0\ChristmasStringLights.pdb
+C:\Users\Win10\Desktop\estudando\C#\ChristmasStringLights\obj\Debug\net7.0\ChristmasStringLights.csproj.AssemblyReference.cache
+C:\Users\Win10\Desktop\estudando\C#\ChristmasStringLights\obj\Debug\net7.0\ChristmasStringLights.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Win10\Desktop\estudando\C#\ChristmasStringLights\obj\Debug\net7.0\ChristmasStringLights.AssemblyInfoInputs.cache
+C:\Users\Win10\Desktop\estudando\C#\ChristmasStringLights\obj\Debug\net7.0\ChristmasStringLights.AssemblyInfo.cs
+C:\Users\Win10\Desktop\estudando\C#\ChristmasStringLights\obj\Debug\net7.0\ChristmasStringLights.csproj.CoreCompileInputs.cache
+C:\Users\Win10\Desktop\estudando\C#\ChristmasStringLights\obj\Debug\net7.0\ChristmasStringLights.dll
+C:\Users\Win10\Desktop\estudando\C#\ChristmasStringLights\obj\Debug\net7.0\refint\ChristmasStringLights.dll
+C:\Users\Win10\Desktop\estudando\C#\ChristmasStringLights\obj\Debug\net7.0\ChristmasStringLights.pdb
+C:\Users\Win10\Desktop\estudando\C#\ChristmasStringLights\obj\Debug\net7.0\ChristmasStringLights.genruntimeconfig.cache
+C:\Users\Win10\Desktop\estudando\C#\ChristmasStringLights\obj\Debug\net7.0\ref\ChristmasStringLights.dll
