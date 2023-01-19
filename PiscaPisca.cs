@@ -29,7 +29,7 @@ namespace ChristmasStringLights
                         Console.Write(palavra[i]);
                     }
                 }
-                Thread.Sleep(1);
+                Thread.Sleep(1500);
                 Console.Clear();
                 for (int i = 0; i < palavra.Length; i++)
                 {
@@ -44,7 +44,7 @@ namespace ChristmasStringLights
                         Console.Write(palavra[i]);
                     }
                 }
-                Thread.Sleep(1);
+                Thread.Sleep(1500);
                 Console.Clear();
             }
         }
